@@ -1,5 +1,9 @@
 # covid_19_tracker
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> ddb257e6d95f905cb93bfb772c86e4c79645b33c
 Live tracker of covid cases worldwide on the map.
 Link :- https://brilliant-cassata-43f965.netlify.app/
 
